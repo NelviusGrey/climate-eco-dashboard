@@ -2,7 +2,7 @@
 Climate & Economic Dashboard
 This project provides an interactive dashboard built with Streamlit and Python to visualize and analyze the relationship between economic indicators and climate data across different countries. Users can explore various metrics such as GDP per capita, population, urbanization rate, and forest area percentage, along with predictive models for population growth and GDP projections.
 
-##Key Features:
+## Key Features:
 
 Interactive Choropleth Map: Visualize countries by GDP, population, and other key metrics.
 
